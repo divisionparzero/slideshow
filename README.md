@@ -1,0 +1,2 @@
+# slideshow
+Simple vanilla slideshow.
