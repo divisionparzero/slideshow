@@ -14,9 +14,17 @@ img{
 	position: relative;
 }
 
+@media only screen and (min-width: 992px){
+	.slideshow {
+		max-width: 30vw;
+		margin: 0 auto;
+	}
+}
+
 .slides {
 	display: none;
 	text-align: center;
+	margin: 0 auto;
 }
 
 .prev, .next {
