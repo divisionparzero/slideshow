@@ -16,6 +16,7 @@ img{
 
 .slides {
 	display: none;
+	text-align: center;
 }
 
 .prev, .next {
