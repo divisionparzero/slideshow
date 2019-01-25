@@ -11,3 +11,4 @@ TODO: I ran out of time before I could develop the dynamic code I wanted to use 
 
 V 1.0 ̶ Initial stable release.
 
+Another Option Branch: As the name suggests. This is the branch where I'm experimenting with another way to do the project.
